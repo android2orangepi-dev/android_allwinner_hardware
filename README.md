@@ -1,2 +1,2 @@
-# android_sunxi_hardware
-Sunxi Hardware implementation for Android
+# android_allwinner_hardware
+Allwinner Hardware implementation for Android
